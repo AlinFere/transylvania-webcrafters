@@ -1,0 +1,8 @@
+Model Information:
+* title:	dracula
+* source:	https://sketchfab.com/3d-models/dracula-a5deab4549684997bce11efc3589c7c1
+* author:	gohean33 (https://sketchfab.com/gohean33)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
